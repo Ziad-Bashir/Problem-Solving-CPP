@@ -19,6 +19,7 @@ My solutions are systematically categorized based on the course modules:
 - `Array & String`
 - `Loop`
 - `Function`
+- `Vectors`
 
 ---
 *Constantly practicing and improving my problem-solving skills! 🚀*
