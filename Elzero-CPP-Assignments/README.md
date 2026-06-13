@@ -16,9 +16,9 @@ My solutions are systematically categorized based on the course modules:
 - `Variables` & `Data Types`
 - `Operators`
 - `Control Flow` (Conditions & Switch)
-- `Array & String`
-- `Loop`
-- `Function`
+- `Arrays & Strings`
+- `Loops`
+- `Functions`
 - `Vectors`
 
 ---
