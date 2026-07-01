@@ -13,7 +13,7 @@ I view solving these problems strictly as a **means to an end, not the final des
 The ultimate objective is to elevate my logical thinking and forge a resilient algorithmic mindset. As a Bachelor of Science student advancing into my second year in the Software Engineering and Artificial Intelligence track, wrestling with these challenges is my rigorous training ground. The goal is that when I dive deeper into complex system architectures or face stubborn bugs later in my career, I will already possess the cognitive tools, patience, and experience to break them down efficiently.
 
 **Bridging Logic with Practice:**
-Beyond isolated katas, I actively apply this problem-solving logic to build functional C++ console applications, such as my Library Management and Squad Managing systems. Building these projects ensures I don't just solve algorithms in a vacuum, but actually understand how to connect different components together. This hands-on approach elevates my logic, prepares me to build larger scalable systems, and directly bridges the gap between theoretical problem-solving and practical software engineering.
+Beyond isolated katas, I actively apply this problem-solving logic to build functional C++ console applications, such as my Library Management. Building these projects ensures I don't just solve algorithms in a vacuum, but actually understand how to connect different components together. This hands-on approach elevates my logic, prepares me to build larger scalable systems, and directly bridges the gap between theoretical problem-solving and practical software engineering.
 
 ---
 
