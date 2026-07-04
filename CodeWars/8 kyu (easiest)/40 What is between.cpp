@@ -1,0 +1,11 @@
+#include <vector>
+
+std::vector<int> between(int start, int end) {
+  // your code here
+  std::vector<int> nums;
+  for(int i = start; i <= end; i++)
+  {
+    nums.push_back(i);
+  }
+  return nums;
+}  
